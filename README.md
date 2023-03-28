@@ -5,6 +5,7 @@ Custom made presets and modified overlays to be used with koko-aio shader in Ret
 - Go to [releases](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases) scroll and download any pack you want.
 - Unpack the package to: "RetroArch/shaders".
 - The RetroArch aspect ratio must be set to FULL in settings/video/scaling.
+- Obviously, disable Overlays if enabled (they'll cover up the shader).
 - That's all.
 
 Screenshots (scanlines don't appear right due to my low resolution screen):
