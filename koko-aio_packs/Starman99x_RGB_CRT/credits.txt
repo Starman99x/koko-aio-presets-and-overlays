@@ -3,4 +3,4 @@
 Original overlay source:
 https://forums.libretro.com/t/exodus-crt-tvs-overlays-collection-with-day-and-night-support/9192
 
-My account at Libretro forums: @Starman99x
+koko-aio shader dev: kokoko3k
