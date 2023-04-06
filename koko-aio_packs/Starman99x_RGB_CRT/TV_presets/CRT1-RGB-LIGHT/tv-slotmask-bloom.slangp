@@ -1,4 +1,5 @@
 #reference "../../../../shaders_slang/bezel/koko-aio/tv-slotmask-bloom-bezel.slangp"
+DO_FXAA = "0.000000"
 BLOOM_OVER_WHITE = "0.000000"
 BEZEL_R = "-0.250000"
 BEZEL_G = "-0.250000"
