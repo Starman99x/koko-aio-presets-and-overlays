@@ -1,11 +1,12 @@
 # koko-aio-presets-and-overlays
-Custom made presets and modified overlays to be used with koko-aio shader in RetroArch.
+Custom made slang presets and modified overlays to be used with koko-aio shader in RetroArch.
 
 **How to use:**
 - You can either download my whole repo as ZIP or go to [releases](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases) and pick a pack of your choice (more to come).
 - Unpack "**koko-aio_packs**" folder to: "**RetroArch/shaders**".
 - The RetroArch aspect ratio must be set to FULL in settings/video/scaling.
 - Obviously, disable Overlays if enabled (they'll cover up the shader).
+- 
 - Load a shader preset and go.
 - That's all.
 
