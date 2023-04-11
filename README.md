@@ -6,7 +6,6 @@ Custom made slang presets and modified overlays to be used with koko-aio shader 
 - Unpack "**koko-aio_packs**" folder to: "**RetroArch/shaders**".
 - The RetroArch aspect ratio must be set to FULL in settings/video/scaling.
 - Obviously, disable Overlays if enabled (they'll cover up the shader).
-- 
 - Load a shader preset and go.
 - That's all.
 
