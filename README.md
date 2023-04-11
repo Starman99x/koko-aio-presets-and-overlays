@@ -21,7 +21,7 @@ Custom made slang presets and modified overlays to be used with koko-aio shader 
 ![tv-slotmask-bloom_NIGHT](https://user-images.githubusercontent.com/69786862/229003033-446ca190-4a44-4656-aacf-52ae68efd372.jpg)
 ![tv-NTSC-1-selective](https://user-images.githubusercontent.com/69786862/229003247-075a0b1a-6de4-4461-93a7-45ba2d8e8f37.jpg)
 
-The following are **experimental presets** that combine koko-aio with gdapt and snes-hires-blend:
+The following are **experimental presets** that combine koko-aio with gdapt for Sega Genesis, this is ideal for those who want transparency effects in their Genesis/MegaDrive games, but also want them to look sharp, since the only other optioin is using Blarrg's NTSC filters (try them in Genesis Plus GX Core Options/Video):
 
 
 **gdapt ON**
