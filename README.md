@@ -8,6 +8,7 @@ Custom made slang presets and modified overlays to be used with koko-aio shader 
 - Obviously, disable Overlays if enabled (they'll cover up the shader).
 - Load a shader preset and go.
 - That's all.
+*Note: you might need to update slang shaders via RetroArch's "Online Updater" for everything to look right*
 
 **Screenshots** (scanlines don't appear right due to my low resolution screen):
 
