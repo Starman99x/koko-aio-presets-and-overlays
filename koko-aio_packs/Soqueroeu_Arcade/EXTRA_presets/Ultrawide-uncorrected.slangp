@@ -1,0 +1,3 @@
+#reference "../Arcade_(Main).slangp"
+BG_IMAGE_WRAP_MODE = "0.000000"
+ASPECT_X = "-5.000000"
