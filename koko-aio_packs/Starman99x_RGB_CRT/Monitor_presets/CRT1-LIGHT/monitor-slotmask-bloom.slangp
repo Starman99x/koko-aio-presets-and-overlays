@@ -1,4 +1,4 @@
-#reference "../../../../shaders_slang/bezel/koko-aio/monitor-slotmask-bloom-bezel.slangp"
+#reference "../../../../shaders_slang/bezel/koko-aio/Presets-4.1/monitor-slotmask-bloom-bezel.slangp"
 BLOOM_OVER_WHITE = "0.000000"
 BEZEL_R = "-0.100000"
 BEZEL_G = "-0.100000"

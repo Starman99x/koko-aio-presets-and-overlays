@@ -1,4 +1,4 @@
-#reference "../../../../shaders_slang/bezel/koko-aio/tv-NTSC-2.slangp"
+#reference "../../../../shaders_slang/bezel/koko-aio/Presets-4.1/tv-NTSC-2.slangp"
 DO_BEZEL = "1.000000"
 BEZEL_R = "-0.190000"
 BEZEL_G = "-0.190000"

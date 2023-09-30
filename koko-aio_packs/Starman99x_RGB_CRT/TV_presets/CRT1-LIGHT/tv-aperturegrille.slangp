@@ -1,4 +1,4 @@
-#reference "../../../../shaders_slang/bezel/koko-aio/tv-aperturegrille.slangp"
+#reference "../../../../shaders_slang/bezel/koko-aio/Presets-4.1/tv-aperturegrille.slangp"
 DO_BEZEL = "1.000000"
 BEZEL_R = "-0.100000"
 BEZEL_G = "-0.100000"
