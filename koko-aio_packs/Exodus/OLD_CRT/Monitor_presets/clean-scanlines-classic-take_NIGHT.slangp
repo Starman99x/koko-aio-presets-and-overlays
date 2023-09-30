@@ -1,4 +1,4 @@
-#reference "../../../../shaders_slang/bezel/koko-aio/clean-scanlines-classic_take.slangp"
+#reference "../../../../shaders_slang/bezel/koko-aio/Presets-4.1/clean-scanlines-classic_take.slangp"
 DO_BEZEL = "1.000000"
 BEZEL_INNER_ZOOM = "-0.185000"
 BEZEL_FRAME_ZOOM = "0.040000"
