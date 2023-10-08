@@ -1,0 +1,3 @@
+#reference "GBC_Yellow_main.slangp"
+
+bg_over = "../textures/GBC_textures/GBC_GREY.png"

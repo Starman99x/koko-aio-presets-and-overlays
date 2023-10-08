@@ -1,0 +1,3 @@
+#reference "GBA_Indigo_main.slangp"
+
+bg_over = "../textures/GBA_textures/GBA_Candy.png"

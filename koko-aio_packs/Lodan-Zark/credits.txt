@@ -1,0 +1,4 @@
+Textures: LodanZark
+Extra colors: Starman99x
+Presets: Starman99x
+Shader: kokoko3k
