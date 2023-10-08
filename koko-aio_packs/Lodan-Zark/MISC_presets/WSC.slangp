@@ -1,6 +1,6 @@
 #reference "../../../shaders_slang/bezel/koko-aio/Presets_Handhelds-ng/GameboyAdvance-Overlay.slangp"
 DO_CCORRECTION = "1.000000"
-IN_GLOW_POWER = "1.500000"
+IN_GLOW_POWER = "1.800000"
 DO_DOT_MATRIX = "1.000000"
 DOT_M_MBLUR_STR = "0.250000"
 DO_BLOOM = "0.000000"
