@@ -21,6 +21,9 @@ Custom made slang presets and modified overlays to be used with koko-aio shader 
 ![FBN](https://github.com/Starman99x/koko-aio-presets-and-overlays/assets/69786862/724d6df6-602d-4a73-ad47-5b10559b6c01)
 ![MAME](https://github.com/Starman99x/koko-aio-presets-and-overlays/assets/69786862/24cb0cc1-c81d-40b6-91ff-4a0c83d973f2)
 ![MVS](https://github.com/Starman99x/koko-aio-presets-and-overlays/assets/69786862/4eac4265-ba43-455c-a365-a78b7ff453dd)
+![GBA](https://github.com/Starman99x/koko-aio-presets-and-overlays/assets/69786862/dc368ec9-9cfe-44e5-b48d-14ef6f0ebb70)
+![MISC](https://github.com/Starman99x/koko-aio-presets-and-overlays/assets/69786862/e69da2a2-0c91-4d25-8da6-95ab5f287209)
+
 
 The following are **experimental presets** that combine koko-aio with gdapt for Sega Genesis, this is ideal for those who want transparency effects in their Genesis/MegaDrive games, but also want them to look sharp, since the only other optioin is using Blargg's NTSC filters (try them in Genesis Plus GX Core Options/Video):
 
