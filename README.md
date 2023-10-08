@@ -18,8 +18,9 @@ Custom made slang presets and modified overlays to be used with koko-aio shader 
 ![CRT1-DARK](https://user-images.githubusercontent.com/69786862/228071366-89c3e548-c8f7-4ebc-a4cd-fda5ffc5053f.jpg)
 ![tv-NTSC-1_DAY](https://user-images.githubusercontent.com/69786862/228071412-7d97a89e-8c74-4f8e-bd55-0787c9b7928b.jpg)
 ![monitor-bloom_night](https://user-images.githubusercontent.com/69786862/228071433-42cb7669-65d7-4b3b-b80f-4ada816035b2.jpg)
-![tv-slotmask-bloom_NIGHT](https://user-images.githubusercontent.com/69786862/229003033-446ca190-4a44-4656-aacf-52ae68efd372.jpg)
-![tv-NTSC-1-selective](https://user-images.githubusercontent.com/69786862/229003247-075a0b1a-6de4-4461-93a7-45ba2d8e8f37.jpg)
+![FBN](https://github.com/Starman99x/koko-aio-presets-and-overlays/assets/69786862/724d6df6-602d-4a73-ad47-5b10559b6c01)
+![MAME](https://github.com/Starman99x/koko-aio-presets-and-overlays/assets/69786862/24cb0cc1-c81d-40b6-91ff-4a0c83d973f2)
+![MVS](https://github.com/Starman99x/koko-aio-presets-and-overlays/assets/69786862/4eac4265-ba43-455c-a365-a78b7ff453dd)
 
 The following are **experimental presets** that combine koko-aio with gdapt for Sega Genesis, this is ideal for those who want transparency effects in their Genesis/MegaDrive games, but also want them to look sharp, since the only other optioin is using Blargg's NTSC filters (try them in Genesis Plus GX Core Options/Video):
 
