@@ -25,6 +25,7 @@ Custom made slang presets and modified overlays to be used with koko-aio shader 
 ![MISC](https://github.com/Starman99x/koko-aio-presets-and-overlays/assets/69786862/e69da2a2-0c91-4d25-8da6-95ab5f287209)
 
 
+
 Tip: If you want transparency effects in Genesis/MegaDrive games while also retaining a clear sharp image, try the "Prepend" feature in Shader settings to combine gdapt with koko-aio (gdapt is located in shaders_slang/dithering) so first load any koko-aio preset then prepend gdapt.
 
 
