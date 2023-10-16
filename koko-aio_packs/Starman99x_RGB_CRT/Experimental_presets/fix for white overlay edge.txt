@@ -1,3 +1,0 @@
-If you prepend another shader to koko-aio and notice an added white edge to the sides of the bg_over.png, you can solve this by slightly zooming the image in shader parameters (a single click was enough).
-
-The presets above all use this workaround.
