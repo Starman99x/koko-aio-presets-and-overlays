@@ -1,7 +1,7 @@
 When loading some vertical aspect ratio games with FBNeo core, the texture image.png might get flipped upside down,this is not a problem with most overlays here since they go both ways, but for affected presets (mainly FBN Flame) I added this override fix to all vertical presets in "FBNeo_Core_Flip_Fix" folder:
 
-BG_IMAGE_ROTATION = "2.000000"
-S_POSITION = "167.000000"
+BG_IMAGE_ROTATION = "-2.000000"
+S_POSITION_X = "0.500000"
 
 These are some games affected by this issue:
 
