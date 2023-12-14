@@ -1,7 +1,7 @@
 When loading some vertical aspect ratio games with FBNeo core, the texture image.png might get flipped in a wrong direction, to fix this problem, I had to rotate the texture images. And add an image rotation override to the shader:
 
-BG_IMAGE_ROTATION = "2.000000"
-S_POSITION = "167.000000"
+BG_IMAGE_ROTATION = "-2.000000"
+S_POSITION_X = "0.500000"
 
 If your game is not affected by this problem, then use the "Reverse_fix" presets in the other folder.
 
