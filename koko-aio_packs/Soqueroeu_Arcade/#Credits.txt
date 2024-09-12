@@ -1,3 +1,0 @@
-Graphics/textures: Soqueroeu
-Presets: Starman99x
-Shader: kokoko3k
