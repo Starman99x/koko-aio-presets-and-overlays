@@ -28,12 +28,3 @@ Custom made slang presets and modified overlays to be used with koko-aio shader 
 
 
 
-Tip: If you want transparency effects in Genesis/MegaDrive games while also retaining a clear sharp image, try the "Prepend" feature in Shader settings to combine gdapt with koko-aio (gdapt is located in shaders_slang/dithering) so first load any koko-aio preset then prepend gdapt.
-
-
-**gdapt ON**
-![2-gdapt-after](https://user-images.githubusercontent.com/69786862/228290589-c8dd80d8-19d0-44d7-97b1-7875bdd56d0d.jpg)
-**gdapt OFF**
-![1-gdapt-before-sor](https://user-images.githubusercontent.com/69786862/228290733-f90932cc-2565-4448-89c2-9d6cb3b82872.jpg)
-
-As for SNES transparency, I highly recommend using the Hi-Res Blending (Merge) feature in Snes9x core options.
