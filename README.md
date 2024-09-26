@@ -4,15 +4,14 @@
 Custom made slang presets and modified overlays to be used with koko-aio shader in RetroArch.
 
 **How to use:**
-- You can either download my whole repo as ZIP or go to [releases](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases) and pick a pack of your choice (more to come).
+- You can either download my whole repo as ZIP or go to [releases](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases) and pick a pack of your choice.
 - Unpack "**koko-aio_packs**" folder to: "**RetroArch/shaders**".
 - The RetroArch aspect ratio must be set to FULL in settings/video/scaling.
-- Obviously, disable Overlays if enabled (they'll cover up the shader).
 - Load a shader preset and go.
-- That's all.
+
 *Note: you might need to update slang shaders via RetroArch's "Online Updater" for everything to look right*
 
-**Screenshots** (scanlines don't appear right due to my low resolution screen):
+**Screenshots**:
 
 ![RGBLEDs_LIGHT](https://user-images.githubusercontent.com/69786862/228071291-f2315d22-bd50-40db-8968-59cc7572ce7d.jpg)
 ![RGBLEDs_DARK](https://user-images.githubusercontent.com/69786862/228071348-5b092670-5a39-434e-aa83-0e10c76b93fb.jpg)
