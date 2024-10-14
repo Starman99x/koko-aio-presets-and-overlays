@@ -5,10 +5,10 @@ Custom made presets for koko-aio shader in RetroArch.
 - Go to [releases](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases) and pick a pack of your choice.
 - Create "**koko-aio_packs**" folder in: "**RetroArch/shaders**".
 - Unpack your pack-of-choice to the new created **"koko-aio_packs"**.
+- The RetroArch aspect ratio must be set to FULL in settings/video/scaling.
 - Load a shader preset from Quick Menu/Shaders and go.
-*The RetroArch aspect ratio must be set to FULL in settings/video/scaling.*
 
-**Screenshots**:
+## Screenshots:
 *images are compressed*
 
 **Starman99x RGB CRT pack:**
