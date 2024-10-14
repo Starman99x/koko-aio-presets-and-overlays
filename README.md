@@ -36,8 +36,9 @@ Custom made presets for koko-aio shader in RetroArch.
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/69fc7bdb-ab79-434b-8b39-03455e321d1d">|<img width="720" alt="" src="https://github.com/user-attachments/assets/57fd1b8f-34dd-452e-a87d-8ea9b0242385">|<img width="720" alt="" src="https://github.com/user-attachments/assets/930944cb-724b-4c91-a659-17348fd8beff">|<img width="720" alt="" src="https://github.com/user-attachments/assets/44d9826a-9077-4963-909c-bf2244410b0a">
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/b55c2014-a884-484d-9643-e53702dda666">|<img width="720" alt="" src="https://github.com/user-attachments/assets/09e78f13-09f9-4387-aab0-e947a8558630">|<img width="720" alt="" src="https://github.com/user-attachments/assets/5b8f54ad-6859-452e-a109-8d9db3f09a54">|<img width="720" alt="" src="https://github.com/user-attachments/assets/0200bb4b-423f-4752-85f4-b577842272a1">
+|<img width="720" alt="" src="https://github.com/user-attachments/assets/69fc7bdb-ab79-434b-8b39-03455e321d1d">|<img width="720" alt="" src="https://github.com/user-attachments/assets/57fd1b8f-34dd-452e-a87d-8ea9b0242385">|<img width="720" alt="" src="https://github.com/user-attachments/assets/930944cb-724b-4c91-a659-17348fd8beff">
+|<img width="720" alt="" src="https://github.com/user-attachments/assets/44d9826a-9077-4963-909c-bf2244410b0a">|<img width="720" alt="" src="https://github.com/user-attachments/assets/b55c2014-a884-484d-9643-e53702dda666">|<img width="720" alt="" src="https://github.com/user-attachments/assets/09e78f13-09f9-4387-aab0-e947a8558630">
+|<img width="720" alt="" src="https://github.com/user-attachments/assets/5b8f54ad-6859-452e-a109-8d9db3f09a54">|<img width="720" alt="" src="https://github.com/user-attachments/assets/0200bb4b-423f-4752-85f4-b577842272a1">|<img width="720" alt="" src="https://github.com/user-attachments/assets/d9862711-d62d-45c7-81c6-e9ecebd64a8e">
 
 **Ambilight pack:**
 
