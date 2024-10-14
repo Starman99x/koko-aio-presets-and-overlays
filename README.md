@@ -9,6 +9,21 @@ Custom made presets for koko-aio shader in RetroArch.
 
 **Screenshots**:
 
+**Starman99x RGB CRT pack:**
 
-![GBA](https://github.com/Starman99x/koko-aio-presets-and-overlays/assets/69786862/dc368ec9-9cfe-44e5-b48d-14ef6f0ebb70)
-![MISC](https://github.com/Starman99x/koko-aio-presets-and-overlays/assets/69786862/e69da2a2-0c91-4d25-8da6-95ab5f287209)
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="240" alt="" src="">|<img width="240" alt="" src="">|<img width="240" alt="" src="">
+
+
+**Exodus CRT pack:**
+
+**Soqueroeu Arcade pack + extra:**
+
+**Backdrop Classics pack:**
+
+**Ambilight pack:**
+
+**Mobile pack:**
+
+**LodanZark pack (extra colors by me):**
