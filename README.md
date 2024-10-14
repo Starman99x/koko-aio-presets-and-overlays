@@ -1,4 +1,4 @@
-# koko-aio-presets-and-overlays
+# koko-aio Presets & Overlays
 Custom made presets for koko-aio shader in RetroArch.
 
 **How to use:**
