@@ -24,7 +24,7 @@ Custom made presets for koko-aio shader in RetroArch.
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="720" alt="" src="https://github.com/user-attachments/assets/017a3b94-9c35-4308-8714-fcde6a6ee821">|<img width="720" alt="" src="https://github.com/user-attachments/assets/2bec8c20-480b-49f1-8dcc-35039c5938db">
 
-**Soqueroeu Arcade pack + extra (WIP):**
+**[Soqueroeu Arcade pack + extras](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Soqueroeu_Arcade):**
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
