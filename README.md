@@ -24,6 +24,13 @@ Custom made presets for koko-aio shader in RetroArch.
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="720" alt="" src="https://github.com/user-attachments/assets/017a3b94-9c35-4308-8714-fcde6a6ee821">|<img width="720" alt="" src="https://github.com/user-attachments/assets/2bec8c20-480b-49f1-8dcc-35039c5938db">
 
+**[Starman99x Tamagotchi pack](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Tamagotchi):**
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="720" alt="" src="https://github.com/user-attachments/assets/a3d6d17d-6a61-4f10-bf9c-05ecfecc0bc4">|<img width="720" alt="" src="https://github.com/user-attachments/assets/6df103b6-66b7-40fc-9fc5-6f2afa8fab85">
+
+
 **[Soqueroeu Arcade pack + extras](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Soqueroeu_Arcade):**
 
 | | | |
