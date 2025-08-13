@@ -16,7 +16,6 @@ Custom made presets for koko-aio shader in RetroArch.
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="720" alt="" src="https://github.com/user-attachments/assets/e5ddcc8d-fdab-44d9-86a4-f6e020d16812">|<img width="720" alt="" src="https://github.com/user-attachments/assets/7dc33344-0682-4c89-8c5a-5a4f78f49602">|<img width="720" alt="" src="https://github.com/user-attachments/assets/e9bd0bcb-a6a5-45ee-8730-c20fb500ca21">
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/95265f3b-7b6f-4a5d-ad0d-a967d74c2bba">|<img width="720" alt="" src="https://github.com/user-attachments/assets/98b2a309-52dc-40e2-92a9-378129250714">|<img width="720" alt="" src="https://github.com/user-attachments/assets/d99ec9e1-3be2-43a5-bc76-5d21c46ca2f5">
 
 **[Exodus CRT pack](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Exodus):**
 
@@ -28,7 +27,7 @@ Custom made presets for koko-aio shader in RetroArch.
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/36eb8705-8e02-41b5-aeba-a05d93ffa1d7">|<img width="720" alt="" src="https://github.com/user-attachments/assets/8e69f454-0c8e-4c58-9261-2b057c22ec95">
+|<img width="720" alt="" src="https://github.com/user-attachments/assets/dfb8cbe0-13ca-4d38-bfd0-158546580639">|<img width="720" alt="" src="https://github.com/user-attachments/assets/9c1bfeee-a9eb-4227-8c8f-4cc110d3f5c4">
 
 
 **[Soqueroeu Arcade pack + extras](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Soqueroeu_Arcade):**
